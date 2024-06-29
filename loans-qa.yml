@@ -6,4 +6,4 @@ loans:
       - 989898
       - 789779
 build:
-  version: "2.5-loans-qa"
+  version: "2.5-loans-qa-refresh"
