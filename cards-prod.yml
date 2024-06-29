@@ -1,0 +1,7 @@
+cards:
+  name: "eazy Bank Card-prod"
+  contact:
+    - 988898989
+    - 989897878
+build:
+  version: "2.3-cards-PROD"

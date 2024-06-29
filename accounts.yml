@@ -1,0 +1,10 @@
+build:
+  version: "2.4"
+accounts:
+  message: "welcome to eazy bank"
+  contactInfo:
+    name: "darshan"
+    email: "email@email.com"
+  mobileNumber:
+    - 01010101
+    - 876839929

@@ -1,0 +1,12 @@
+build:
+  version: "3.4"
+accounts:
+  message: "welcome to eazy bank QA"
+  contactInfo:
+    name: "darshanQA"
+    email: "email@emailQA.com"
+  mobileNumber:
+    - 01010101
+    - 876839929
+server:
+  port: 8080

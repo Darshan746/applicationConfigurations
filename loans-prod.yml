@@ -1,0 +1,9 @@
+loans:
+  message: "eazy bank Loans-prod"
+  contactdetails:
+    email: "darshan@hh.com"
+    phone:
+      - 989898
+      - 789779
+build:
+  version: "2.6-loans-prod"

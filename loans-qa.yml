@@ -1,0 +1,9 @@
+loans:
+  message: "eazy bank Loans QA"
+  contactdetails:
+    email: "darshan@hh.com"
+    phone:
+      - 989898
+      - 789779
+build:
+  version: "2.5-loans-qa"

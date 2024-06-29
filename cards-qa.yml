@@ -1,0 +1,9 @@
+cards:
+  name: "eazy Bank Card-qa"
+  contact:
+    - 988898989
+    - 989897878
+server:
+  port: 9000
+build:
+  version: "2.3-cards-QA"
