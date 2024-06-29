@@ -4,7 +4,7 @@ accounts:
   message: "welcome to eazy bank QA"
   contactInfo:
     name: "darshanQA"
-    email: "email@emailQA.com"
+    email: "{cipher}0c23e8f4bcbe45566501c4d01cfb21c431df369b0301c2584cac95608cada9dd5965b131502acdb8ec93d5f99cb0ed31"
   mobileNumber:
     - 01010101
     - 876839929
