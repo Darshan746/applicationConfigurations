@@ -1,7 +1,7 @@
 build:
   version: "3.4"
 accounts:
-  message: "welcome to eazy bank QA"
+  message: "welcome to eazy bank QA-bus-refresh"
   contactInfo:
     name: "darshanQA-cipher"
     email: "{cipher}0c23e8f4bcbe45566501c4d01cfb21c431df369b0301c2584cac95608cada9dd5965b131502acdb8ec93d5f99cb0ed31"
