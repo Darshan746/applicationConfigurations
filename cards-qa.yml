@@ -6,4 +6,4 @@ cards:
 server:
   port: 9000
 build:
-  version: "2.3-cards-QA-git-bus-refresh-2"
+  version: "2.3-cards-QA-git-bus-refresh-3"
