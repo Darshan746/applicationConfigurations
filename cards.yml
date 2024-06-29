@@ -6,4 +6,4 @@ cards:
 server:
   port: 9000
 build:
-  version: "2.3-cards-DEFAULT"
+  version: "2.3-cards-refresh-3"
